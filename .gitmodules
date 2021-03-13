@@ -1,7 +1,7 @@
 [submodule "web"]
 	path = web
-	url = git@github.com:jhonattas/territorio-fight-web.git
+	url = git@github.com:jhonattas/auditta-web.git
 
 [submodule "contato"]
         path = contato
-        url = git@github.com:jhonattas/territorio-fight-contato.git
+        url = git@github.com:jhonattas/auditta-contato.git
